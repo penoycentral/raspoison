@@ -1,0 +1,6 @@
+banish
+exec xset s off
+exec xset -dpms
+exec unclutter -root
+exec x11vnc -loop
+exec /usr/bin/chromium --kiosk  http://www.penoycentral.net

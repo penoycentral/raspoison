@@ -1,0 +1,19 @@
+raspoison - raspberrypi web kiosk using raspberrypi+raspbian+ratpoison+googlechromium
+
+ Puppet module to install and configure a simple web chromium kiosk mode using ratpoison running on raspberrypi+raspbian
+ http://penoycentral.net/linuxnix/raspberrypiraspbianratpoison
+ http://ratpoison.nongnu.org/    
+
+License
+-------
+
+
+Contact
+-------
+
+penoycentralatgmaildotcom
+
+Support
+-------
+
+penoycentralatgmaildotcom
